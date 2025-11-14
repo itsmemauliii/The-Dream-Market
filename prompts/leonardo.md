@@ -1,0 +1,1 @@
+"Surreal dream marketplace floating above a calm night sky, vibrant glowing lanterns rising upward, neon fantasy lighting, cloud-based stalls, fractal sand textures, magical atmosphere, whimsical, ultra-detailed, cinematic fantasy, Leonardo diffusion style."
