@@ -1,0 +1,7 @@
+- Import all clips  
+- Arrange in storyboard order  
+- Add narration and adjust pacing  
+- Fade-ins, cross dissolves, dream glow  
+- Light color grade (blue-gold palette)  
+- Add title card  
+- Export in 1080p  
